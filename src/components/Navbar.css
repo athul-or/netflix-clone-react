@@ -1,0 +1,12 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top:0;
+    height: 200px;
+    z-index: 1;
+    padding: 15px;
+}
+
+.logo{
+    width:150px;
+}
