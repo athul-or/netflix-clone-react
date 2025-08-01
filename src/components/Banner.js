@@ -30,7 +30,6 @@ function Banner({ fetchUrl }) {
 
     return (
         <div className='banner' style={{ backgroundImage: `url(${base_url}${movie.backdrop_path})` }}>
-
             <div className='banner-content'>
                 <h1 className='banner-title'>{movie.name}</h1>
                 <h4 className='banner-desc'>

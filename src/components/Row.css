@@ -17,6 +17,7 @@
     max-height: 150px;
     margin-right: 10px;
     transition: 450ms;
+    cursor: pointer;
 }
 .movie:hover{
     transform: scale(1.05);
